@@ -7,9 +7,10 @@
 
 <div align="center">
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software-gif" width="300" height="200"/>
-</div>
-- 🔭 I’m currently working on <b>Trade System</b>
 
+
+- 🔭 I’m currently working on <b>Trade System</b>
+</div>
 
 <div align="center">
 <h3>Languages and Tools:</h3>
