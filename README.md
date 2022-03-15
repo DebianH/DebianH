@@ -2,10 +2,10 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="10" height="10"/>, I'm David</h1>
 <h3 align="center">A passionate software developer from Ecuador</h3>
 
-<div align="center" border-radius="50%">
+<div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150"/>
 </div>
 - 🔭 I’m currently working on <b>Trade System</b>
