@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer from Ecuador</h3>
 
 <div align="center">
-<img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software-gif" width="300" height="180"/>
+<img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software-gif" width="300" height="200"/>
 </div>
 - 🔭 I’m currently working on <b>Trade System</b>
 
