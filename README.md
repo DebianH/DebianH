@@ -4,7 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate software developer from Ecuador</h3>
-<img src="https://giphy.com/embed/1iNIkQBAwEkUuTpikf" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+
+<div align="center">
+<img src="https://giphy.com/embed/1iNIkQBAwEkUuTpikf" alt="GitHub Logo" width="150" height="150" />
+</div>
 
 - 🔭 I’m currently working on **Trade System**
 
