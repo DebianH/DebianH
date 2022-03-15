@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer from Ecuador</h3>
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" border-radius="30"/>
 </div>
 - 🔭 I’m currently working on <b>Trade System</b>
 
