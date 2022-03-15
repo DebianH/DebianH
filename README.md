@@ -2,7 +2,7 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
-<h1 align="center">Hi <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="10" height="10"/>, I'm David</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width="30" height="30"/>, I'm David</h1>
 <h3 align="center">A passionate software developer from Ecuador</h3>
 
 <div align="center">
