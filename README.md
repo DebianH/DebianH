@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate software developer from Ecuador</h3>
-<iframe src="https://giphy.com/embed/1iNIkQBAwEkUuTpikf" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf">via GIPHY</a></p>
+<img src="https://giphy.com/embed/1iNIkQBAwEkUuTpikf" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 - 🔭 I’m currently working on **Trade System**
 
