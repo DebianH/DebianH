@@ -9,7 +9,7 @@
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software-gif" width="300" height="200"/>
 
 
- -🔭 I’m currently working on <b>Trade System</b>
+ -🔭 I’m currently work on a freelance <b>GH Dev Company</b>
 </div>
 
 <div align="center">
