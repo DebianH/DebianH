@@ -9,7 +9,7 @@
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software-gif" width="300" height="200"/>
 
 
- -🔭 I’m currently work on a freelance <b><a href="https://www.facebook.com/GHdevcompany">GH Dev Company</a></b>
+ -🔭 I’m currently work on a freelance and 4Tech SA <b><a href="https://www.ghdevcompany.com">GH Dev Company</a></b>
 </div>
 
 <div align="center">
